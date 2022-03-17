@@ -1,0 +1,29 @@
+@charset "UTF-8";
+header, footer{
+	background-color: gray;
+}
+#main{
+	background-color: lightgray;
+}
+.board{
+	background-color: lightgreen;
+}
+.reply{
+	background-color: lightpink;
+}
+.replylist{
+	background-color: lightblue;
+}
+
+nav li {
+	list-style:none;
+	float: left;
+	margin-right: 100px;
+}
+a {
+	color: black;
+	text-decoration: none;
+}
+a:hover {
+	color: red;
+}
